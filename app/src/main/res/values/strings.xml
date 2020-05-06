@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CleanArchitecture</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_status_sent_format">Shipment number %d sent from %s to %s\n</string>
+    <string name="text_status_received_format">Shipment number %d  received from %s to %s\n</string>
+    <string name="text_status_error_format">Shipment number %d not delivered sent from %s to %s\n</string>
+
+</resources>
